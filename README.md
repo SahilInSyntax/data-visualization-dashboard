@@ -32,8 +32,8 @@ The **Data Visualization Dashboard** is a comprehensive project designed to show
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
+   git clone https://github.com/SahilInSyntax/data-visualization-dashboard.git
+   cd data-visualization-dashboard
    ```
 
 2. **Open the Project**:
@@ -79,8 +79,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or suggestions regarding this project, feel free to contact me at [your email address].
+For any questions or suggestions regarding this project, feel free to contact me at [Sahilmanjrekar2003@gmail.com].
 
 ---
-
-Feel free to replace placeholders (like `yourusername`, `yourrepository`, `your email address`) with your actual information. This README provides a thorough overview of the project and highlights its features, making it appealing to companies and collaborators.
