@@ -38,13 +38,13 @@ main {
     background: #fff;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
-    display: flex;
-    flex-direction: column;
+    display: grid;
+    grid-template-columns: 1fr;
     gap: 20px;
 }
 
 /* Chart containers */
-#chart, #lineChart {
+#chart, #lineChart, #pieChart, #scatterChart {
     width: 100%;
     min-height: 400px;
     background: #fff;
@@ -61,13 +61,14 @@ main {
     main {
         padding: 10px;
         margin: 10px;
+        grid-template-columns: 1fr;
     }
 
     header h1 {
         font-size: 1.5em;
     }
 
-    #chart, #lineChart {
+    #chart, #lineChart, #pieChart, #scatterChart {
         padding: 10px;
     }
 }
